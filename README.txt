@@ -5,7 +5,7 @@ name: Siyi Liu
 
 
 1.    Run my code using (Thins example:my input "netlib_afiro.txt" is in file "test_LPs_volume1/input"):
-python3 lp/lp_solver.py<test_LPs_volume1/input/netlib_afiro.txt
+python3 lp_solver.py<test_LPs_volume1/input/netlib_afiro.txt
 
 
 2.    I use Largest coefficient rule with lexicographic method to implentmented, so it prevent cycling
