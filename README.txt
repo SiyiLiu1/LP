@@ -35,7 +35,7 @@ for boundness:
 
 
 
-3.   Extra feature:  4 marks "lexicographic" to prevent cycling caused by Largest coefficient rule.
+3.   Extra feature:  use "lexicographic" to prevent cycling caused by Largest coefficient rule.
 
 I add epsilons have same number with slack variable to my "optimal" dictionary, with keys same as slack values's keys.  
 
