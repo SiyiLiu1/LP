@@ -1,7 +1,6 @@
-"""
-name: Siyi Liu
-
-"""
+Implementing an LP solver which reads a text-based representation of a linear program from standard input and outputs the result of solving the LP 
+(including whether the LP turned out to be infeasible or unbounded). Unlike the other assignments in this course,use floating-point computation to solve the LP 
+(so it is not necessary to use exact fractional arithmetic).
 
 
 1.    Run my code using (Thins example:my input "netlib_afiro.txt" is in file "test_LPs_volume1/input"):
